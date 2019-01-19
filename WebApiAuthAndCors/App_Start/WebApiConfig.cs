@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
+using System.Web.Http.Cors;
 
 namespace WebApiAuthAndCors
 {
@@ -17,6 +18,10 @@ namespace WebApiAuthAndCors
             config.SuppressDefaultHostAuthentication();
             config.Filters.Add(new HostAuthenticationFilter(OAuthDefaults.AuthenticationType));
 
+            //  Enabling CORS
+            var cors = new EnableCorsAttribute("*", "*", "GET");
+            config.EnableCors(cors);
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 
@@ -25,6 +30,8 @@ namespace WebApiAuthAndCors
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            
         }
     }
 }

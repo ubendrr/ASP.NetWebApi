@@ -58,3 +58,8 @@ C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCo
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\obj\Debug\WebApiAuthAndCors.Tests.csproj.CopyComplete
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\obj\Debug\WebApiAuthAndCors.Tests.dll
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\obj\Debug\WebApiAuthAndCors.Tests.pdb
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\bin\Debug\System.Web.Cors.dll
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\bin\Debug\WebApiAuthAndCors.xml
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors.Tests\bin\Debug\System.Web.Http.Cors.xml

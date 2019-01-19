@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthAndCors", "WebApi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthAndCors.Tests", "WebApiAuthAndCors.Tests\WebApiAuthAndCors.Tests.csproj", "{F1163FFC-D23C-4483-BDB6-D20392F5B19D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsClient", "CorsClient\CorsClient.csproj", "{73D6D63D-BA1B-4639-97FA-1E03DC43EE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F1163FFC-D23C-4483-BDB6-D20392F5B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1163FFC-D23C-4483-BDB6-D20392F5B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1163FFC-D23C-4483-BDB6-D20392F5B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D6D63D-BA1B-4639-97FA-1E03DC43EE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D6D63D-BA1B-4639-97FA-1E03DC43EE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D6D63D-BA1B-4639-97FA-1E03DC43EE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D6D63D-BA1B-4639-97FA-1E03DC43EE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

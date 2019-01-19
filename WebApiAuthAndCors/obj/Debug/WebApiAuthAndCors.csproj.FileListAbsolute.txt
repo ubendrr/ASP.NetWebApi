@@ -114,3 +114,8 @@ C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCo
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\obj\Debug\WebApiAuthAndCors.csproj.CopyComplete
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\obj\Debug\WebApiAuthAndCors.dll
 C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\obj\Debug\WebApiAuthAndCors.pdb
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\bin\System.Web.Cors.dll
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\bin\System.Web.Http.Cors.dll
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\bin\System.Web.Http.Cors.xml
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\bin\WebApiAuthAndCors.xml
+C:\OneDrive\Dev\Demo Project\Web Api\Exercises\WebApiAuthAndCors\WebApiAuthAndCors\obj\Debug\WebApiAuthAndCors.csprojAssemblyReference.cache
